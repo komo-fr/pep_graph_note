@@ -1,2 +1,2 @@
-# pep_graph_note
-PEPをNetworkXであれこれやったときのメモ
+# PEP Graph Note
+PEPをNetworkXであれこれ見たときのメモ
